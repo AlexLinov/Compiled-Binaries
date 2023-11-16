@@ -10,11 +10,8 @@
 ### Features
 
 - Read and extract gMSACredentials information.
-- [Add any other features specific to your program]
-
-### Usage
 
 [Provide usage instructions and examples here]
 
 ```bash
-gMSAReadPasswords --option1 value1 --option2 value2
+gMSAReadPasswords.exe --accountname "account_name"
