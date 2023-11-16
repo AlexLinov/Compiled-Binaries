@@ -1,4 +1,5 @@
-# gMSAReadPasswords & SeRestoreABuse
+# Pre-Compiled Binaries
+**Note:** This documentation is a work in progress, and more content will be added soon. Stay tuned for additional features, usage examples, and improvements.
 
 ## gMSAReadPasswords
 
