@@ -15,7 +15,7 @@
 
 ```bash
 gMSAReadPasswords.exe --accountname "account_name"
-
+```
 ## SeRestoreAbuse
 
 ### Description
@@ -24,3 +24,4 @@ gMSAReadPasswords.exe --accountname "account_name"
 
 ```bash
 SeRestoreAbuse.exe "reverse shell using netcat / Commands of your choice"
+```
